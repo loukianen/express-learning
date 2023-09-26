@@ -1,0 +1,26 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "learning project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loukianen/express-learning.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Konstantin Lukyanenok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loukianen/express-learning/issues"
+  },
+  "homepage": "https://github.com/loukianen/express-learning#readme",
+  "dependencies": {
+        "express": "^4.16.4"
+    }
+}
